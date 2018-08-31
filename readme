@@ -1,0 +1,4 @@
+1) install composer
+2) type reqiure "Laravel/Installer" in cmd
+then add laravel instsller to path.
+3)install redis_
